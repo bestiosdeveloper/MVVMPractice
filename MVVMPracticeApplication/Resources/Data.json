@@ -1,0 +1,31 @@
+
+{
+    "status": 200,
+    "data": {
+        "checking": [ {"title": "Checking...9717", "price": "6345.09"},
+                        {"title": "Checking...3453", "price": "745.23"},
+                        {"title": "Checking...7442", "price": "1455.74"},
+                        {"title": "Checking...1243", "price": "96545.54"},
+                        {"title": "Checking...9556", "price": "862.20"},
+                        {"title": "Savings...5463", "price": "8764.34"},
+                        {"title": "Savings...8563", "price": "8564.0"},
+                        {"title": "Savings...9556", "price": "2423.23"},
+                        {"title": "Savings...9382", "price": "7453.23"},
+                        {"title": "Savings...6754", "price": "453.23"}
+        ],
+        "investment": [
+            {"title": "Investment...7532", "price": "85.30"},
+            {"title": "Investment...5645", "price": "452.45"},
+            {"title": "Investment...6523", "price": "7453.53"},
+            {"title": "Investment...7413", "price": "764.12"},
+            {"title": "Investment...0986", "price": "122.00"},
+            {"title": "Investment...1244", "price": "8.2"},
+            {"title": "Brokerage...1388", "price": "8564.65"},
+            {"title": "Brokerage...1215", "price": "534.75"},
+            {"title": "Brokerage...8675", "price": "12.5"},
+            {"title": "Brokerage...4534", "price": "46.66"},
+            {"title": "Brokerage...2342", "price": "6574.24"},
+            {"title": "Brokerage...6867", "price": "4563.57"}
+        ]
+    }
+}
